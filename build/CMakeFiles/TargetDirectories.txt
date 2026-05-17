@@ -1,0 +1,6 @@
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/formatter_lib/CMakeFiles/formatter.dir
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/vita/Vita927/workspace/homework/formatter_ex_lib/build/formatter_lib/CMakeFiles/rebuild_cache.dir
