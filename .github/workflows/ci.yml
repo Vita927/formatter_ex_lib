@@ -9,7 +9,5 @@ jobs:
       run: sudo apt install cmake
     - name: Build
       run: |
-        mkdir -p build
-        cd build
-        cmake ..
-        cmake --build .
+        cmake -H. -B_build
+        cmake --build _build
